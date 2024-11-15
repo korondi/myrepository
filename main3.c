@@ -4,7 +4,7 @@
 int main(int argc, char const *argv[])
 {
     /* code */
-    printf("Hello World !!!!");
+    printf("Hello World !!!");
     
     return 0;
 }
