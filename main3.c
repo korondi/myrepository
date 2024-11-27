@@ -4,8 +4,7 @@
 int main(int argc, char const *argv[])
 {
     /* code */
-    printf("Hello World !!!!");
-    printf("JIM zzz");
-    
-    return 0;
+    printf("Bye-Bye World, 27/11/2024 change 4");
+
+  return 0;
 }
